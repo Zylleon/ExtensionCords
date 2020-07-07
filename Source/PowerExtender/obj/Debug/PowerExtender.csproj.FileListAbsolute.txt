@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_PowerExtender\Assemblies\PowerExtender.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_PowerExtender\Source\PowerExtender\obj\Debug\PowerExtender.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_PowerExtender\Source\PowerExtender\obj\Debug\PowerExtender.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_PowerExtender\Source\PowerExtender\obj\Debug\PowerExtender.dll

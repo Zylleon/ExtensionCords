@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Extension Cords</name>
+  <author>Zylle</author>
+  <supportedVersions>
+	<li>1.1</li>
+  </supportedVersions>
+    <packageId>zylle.ExtensionCords</packageId>
+    <modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+  <description>
+
+Things can connect to the power grid from 2x farther away.
+
+
+Requires Harmony.
+Safe to add and remove.
+
+-----
+
+Discord: https://discord.gg/4EFv76C
+ko-fi: https://ko-fi.com/zylleon
+
+</description>
+</ModMetaData>
